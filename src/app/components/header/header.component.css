@@ -1,3 +1,9 @@
 div{
-    background-color: antiquewhite;
+    background: #FAEBD7;
+    padding:20px ;
+}
+app-social{
+    float:right;
+    margin-top:25;
+    
 }
