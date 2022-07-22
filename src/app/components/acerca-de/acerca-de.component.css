@@ -1,10 +1,13 @@
+
 .row  {
     width: 940px;
     margin: 0 auto;
     padding: 20px;
+    background: #FAEBD7;
+    
 }
 div {
-    background: #FAEBD7;
+
     text-align: center;
 }
 /*etiqueta id nombre */
