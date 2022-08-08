@@ -1,6 +1,6 @@
 
 .row  {
-    width: 940px;
+    width: auto;
     margin: 0 auto;
     padding: 20px;
     background: #FAEBD7;
@@ -14,18 +14,19 @@ div {
 #nombre{
     font-weight: bold;
     margin-top: 40%;
+    margin-right: auto;
     
 }
 /*etiqueta id foto de perfil */
 
     @media(min-width: 576px){
         #fotodeperfil{
-            position: absolute;
-            width:15%;
+            position: relative;
+            width:100rem;
             border-radius: 100%;
             box-shadow:2px 2px 2px black;
             left: 10%;
-            top:650px;
+            top:auto;
 
         }
       
@@ -39,7 +40,7 @@ div {
             border-radius: 100%;
             box-shadow:2px 2px 2px black;
             left: 33%;
-            top:630px;
+            top:570px;
 
         }
       
