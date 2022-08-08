@@ -4,9 +4,10 @@
 }
 .contenedor{
     width: auto;
+     display:inline;
 }
 .parte1, parte2{
-    display:inline-block;
+    display:inline;
     text-align: justify;
 }
 .img-proyecto{
